@@ -44,4 +44,4 @@ app.get('/cassandra', (req, res) => {
         });
 })
 
-app.listen(5001, '192.168.1.68');
+app.listen(5001)
